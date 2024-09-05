@@ -59,4 +59,3 @@ Use the Movie Booking Page to select movies and book tickets.
 On the Seat Booking Page, choose your preferred seats.
 Admins can log into the Admin Panel to manage movies, events, and bookings, while staff can access the Staff Panel for booking details.
 Users can log in or register to access personalized features and submit feedback.
-## Screenshots
